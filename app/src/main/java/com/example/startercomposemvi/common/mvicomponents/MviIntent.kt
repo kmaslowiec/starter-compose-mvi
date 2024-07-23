@@ -1,0 +1,3 @@
+package com.example.startercomposemvi.common.mvicomponents
+
+interface MviIntent

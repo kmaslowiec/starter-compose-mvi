@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StarterComposeMvi</string>
+    <string name="mainScreenEditViewExampleLabelText">Edit View Subject</string>
+    <string name="mainScreenEditViewExampleTestTag">Edit View subject</string>
+    <string name="mainEditViewExampleSupportingText">Too long subject</string>
+    <string name="mainScreenErrorSomethingWentWrong">Something went wrong</string>
+</resources>
